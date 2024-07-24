@@ -38,14 +38,14 @@ Before you begin, ensure you have met the following requirements:
 2. Install dependencies:
 
    ```bash
-  npm install
+    npm install
    ```
 
 3. Create a .env file in the root of the project and add your TMDb API key and base URL:
 
- ```bash
-  EXPO_PUBLIC_API_KEY=your_tmdb_api_key
-  EXPO_PUBLIC_BASE_URL=movies_api_url
+   ```bash
+    EXPO_PUBLIC_API_KEY=your_tmdb_api_key
+    EXPO_PUBLIC_BASE_URL=movies_api_url
    ```
 
 ## Running the App
