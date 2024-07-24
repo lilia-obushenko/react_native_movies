@@ -1,0 +1,18 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore other sensitive files
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Ignore build output
+build/
+dist/
+
+# Ignore log files
+*.log
